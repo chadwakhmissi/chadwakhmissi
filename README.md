@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact **I have a knack for turning mundane data analysis into a thrilling detective story Sherlock Holmes has nothing on my Excel skills!**
-- 📫 How to reach me <a href="https://www.linkedin.com/in/chadwa-khmissi/" target="_blank">Linkedin</a>
+
 
 <hr>
 
