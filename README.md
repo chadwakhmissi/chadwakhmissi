@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FCB700&width=435&lines=HI%2C+I+am+Chadwa+khmissi;A+BA+And+Marketing+Student;Seeking++To+Learn+New+Things;Willing+To+improve+my+skills+" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFC0CB&width=435&lines=HI%2C+I+am+Chadwa+khmissi;A+BA+And+Marketing+Student;Seeking++To+Learn+New+Things;Willing+To+improve+my+skills+" alt="Typing SVG" /></a></h1>
 
 
 - 👩‍💻 All of my projects will be available here 
