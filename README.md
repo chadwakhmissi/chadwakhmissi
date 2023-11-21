@@ -17,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/chadwa-khmissi/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-parmar-a42597239" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chadwa-khmissi/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chadwa-khmissi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chadwakh/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chadwakh" height="30" width="40" /></a>
+
 </p>
 <br>
 <hr>
