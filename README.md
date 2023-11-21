@@ -5,13 +5,15 @@
 <h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FCB700&width=435&lines=HI%2C+I+am+Chadwa+khmissi;A+BA+And+Marketing+Student;Seeking++To+Learn+New+Things;Willing+To+improve+my+skills+" alt="Typing SVG" /></a></h1>
 
 
-- 👨‍💻 All of my projects will be available here 
+- 👩‍💻 All of my projects will be available here 
 
-- 💬 Ask me about **PowerBI,MS Office**
-
+- 🔭 I’m currently working on improving my visualization skills using Power BI.
+- 👯 I’m looking to collaborate on open-source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact **I have a knack for turning mundane data analysis into a thrilling detective story Sherlock Holmes has nothing on my Excel skills!**
 - 📫 How to reach me <a href="https://www.linkedin.com/in/chadwa-khmissi/" target="_blank">Linkedin</a>
 
-- ⚡ Fun fact **I have a knack for turning mundane data analysis into a thrilling detective story Sherlock Holmes has nothing on my Excel skills!**
 <hr>
 
 
