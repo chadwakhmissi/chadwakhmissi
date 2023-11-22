@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact **I have a knack for turning mundane data analysis into a thrilling detective story Sherlock Holmes has nothing on my Excel skills!**
+- ⚡ Fun fact **When learning knocks on my brain's door, sleepiness grabs its suitcase for a spontaneous vacation, leaving me wide-eyed and ready for the knowledge adventure!**
 
 
 <hr>
